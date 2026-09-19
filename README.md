@@ -64,3 +64,12 @@ Md. Akizul Islam
 
 Independent learner/researcher working in Python,
 scientific computing, data analysis, and AI/ML.
+## Project Structure
+
+```text
+python-sales-data-analysis/
+├── README.md
+└── sales_analysis.ipynb
+How to Run
+Reproducibility
+Portfolio Scope
